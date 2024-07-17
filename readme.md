@@ -36,9 +36,9 @@ These instructions will guide you through setting up and running the project on 
 
 ```sh
 
-git clone https://github.com/repo/sentiment-analysis-backend.git
+git clone https://github.com/anunomac/mc-genai-backend-test-2.git
 
-cd sentiment-analysis-backend
+cd mc-genai-backend-test-2
 
 ```
 
